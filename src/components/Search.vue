@@ -42,7 +42,7 @@ export default {
 </script>
 
 <style scoped lang="sass">
-@import 'src/assets/sass/_variables.sass';
+@import 'src/assets/sass/_variables.sass'
 .search-box
   background-color: $greybg
   width: 300px

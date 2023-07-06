@@ -64,7 +64,7 @@ export default {
 </script>
 
 <style scoped lang="sass">
-@import 'src/assets/sass/_variables.sass';
+@import 'src/assets/sass/_variables.sass'
 
 svg
   width: 100%

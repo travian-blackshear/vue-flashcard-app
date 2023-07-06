@@ -164,7 +164,7 @@ export default {
 </script>
 
 <style lang="sass">
-@import 'src/assets/sass/main.sass';
+@import 'src/assets/sass/main.sass'
 
 .page-container
   margin-left: auto
